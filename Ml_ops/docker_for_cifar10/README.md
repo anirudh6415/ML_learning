@@ -1,4 +1,5 @@
 <div align="center">
+
 # Generated from the [![template](https://img.shields.io/badge/template-lightning--hydra--template-blue?logo=github)](https://github.com/ashleve/lightning-hydra-template)
 
 I have added the Dockerfile to the project, making it more portable and easier to deploy. Docker allows you to containerize your application, ensuring that it runs consistently across different environments. By using Docker, you can encapsulate all dependencies and configurations within a container, facilitating smoother development workflows and simplified deployment processes.
@@ -30,6 +31,7 @@ Feel free to adjust the instructions as needed for your specific project and Doc
 
 ---------------------------------------------------------------------------
 <div align="center">
+
 # Lightning-Hydra-Template
 
 [![python](https://img.shields.io/badge/-Python_3.8_%7C_3.9_%7C_3.10-blue?logo=python&logoColor=white)](https://github.com/pre-commit/pre-commit)
